@@ -19,3 +19,7 @@ body {
   line-height: 95px;
   letter-spacing: 2px;
 }
+.img {  
+display: inline-block;
+    float: left;
+}
