@@ -49,3 +49,12 @@ padding: 118px;
   padding: 24px 43px;
   color: #fff;
 }
+.create {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #BDBDBD;
+  text-align: center;
+}
