@@ -34,3 +34,12 @@ padding: 118px;
   letter-spacing: 2px;
   color: #4F4F4F;
 }
+.link {
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #4F4F4F;
