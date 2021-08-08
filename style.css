@@ -11,3 +11,11 @@ body {
   text-transform: uppercase;
   latter-spacing: 2px;
 }
+.badnews {
+  font-family: Space Mono;
+  font-style: normal;
+  font-wight: bold;
+  font-size: 64px;
+  line-height: 95px;
+  latter-spacing: 2px;
+}
