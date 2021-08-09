@@ -67,4 +67,7 @@ padding: 20%;
 .img {
   float: none;
   }
+  .badnews, .p2, .link {
+    padding-left: 24px;
+  }
 }
