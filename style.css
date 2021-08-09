@@ -23,7 +23,7 @@ body {
 .img {  
 display: inline-block;
     float: left;
-padding: 118px; 
+padding: 20%; 
 }
 .p2 {
   font-family: 'Space Mono', monospace;
