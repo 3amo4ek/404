@@ -63,11 +63,14 @@ padding: 20%;
   transform: translate(-50%);
   bottom: 0;
 }
-@media only screen and (max-device-width: 600px){
+@media only screen and (max-device-width: 600px) {
 .img {
   float: none;
   }
   .badnews, .p2, .link {
     margin-left: 24px;
+    margin-right: 24px;
   }
+  .create {
+    
 }
