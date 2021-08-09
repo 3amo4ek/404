@@ -63,3 +63,8 @@ padding: 20%;
   transform: translate(-50%);
   bottom: 0;
 }
+@media only screen and (max-width 600px){
+img {
+  float: none;
+  }
+}
